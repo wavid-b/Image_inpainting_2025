@@ -20,7 +20,7 @@
 - gen_bounding_box.ipynb
 - Note - to run, a modified yolo5 was used and that is too large for github (I dont have LFS)
 ### Inpainting 
-- Some approaches in patch-approach.ipynb
+- Some approaches in section_3.ipynb
 - Lama in lama_inpainting.py
 
   
