@@ -18,7 +18,7 @@
 ### Corruption Localization
 - split_files.ipynb
 - gen_bounding_box.ipynb
-- Note - to run, a modified yolo5 was used and that is too large for github (I dont have LFS)
+- Note - to run, a modified yolo5 was used and that is too large for github (I ran out of LFS)
 ### Inpainting 
 - Some approaches in section_3.ipynb
 - Lama in lama_inpainting.py
